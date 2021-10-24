@@ -1,0 +1,13 @@
+(;GM[1]FF[3]
+;AW[ro][nq][oq][pq][qq][rq][mr]
+AB[or][pr][qr][rr][sr]
+    (;W[os]
+        (;B[ps];W[rs];B[ns];W[nr])
+        (;B[ns];W[nr];B[rs];W[ps];B[qs];W[os])
+    )
+(;W[rs]
+    (;B[os];W[qs])
+    (;B[qs];W[os];B[nr];W[ns])
+)
+)
+
